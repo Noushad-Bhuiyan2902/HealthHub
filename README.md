@@ -1,4 +1,4 @@
-# Hospital Management System
+# Health-Hub : A hospital management approach
 
 **Team:**
 
